@@ -1,0 +1,5 @@
+bazel_combined_report_repro
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
